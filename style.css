@@ -1,0 +1,26 @@
+body{
+background-color: darkred;
+color: whitesmoke;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+hr{
+color: black;
+width: 100%;
+}
+
+.name_of_objects,#result_object_name, #result_object_accuracy{
+color:skyblue;
+
+}
+
+#camera{
+    border: 5px solid wheat;
+    width: 350px;
+    height: 300px;
+
+}
